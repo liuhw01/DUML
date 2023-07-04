@@ -1,0 +1,23 @@
+This is the inference network code for 'Learning from More: Combating Uncertainty Cross-multidomain for Facial Expression Recognition'
+
+===
+
+## Inference
+
+* Step 1: In order to infer your results, you should store the dataset according to the path described in the txt file in `./data/label_multi`
+
+The prepared file format is as follows:
+
+'''
+./data
+	./CK
+	./AffectNet
+	./FER2013
+	./JAFFE
+	./RAF-DB
+	./Oulu_CASIA
+
+'''
+
+
+* Step 2:  run 'inference.py'
