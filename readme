@@ -23,4 +23,4 @@ The prepared file format is as follows:
 * Step 2:  run 'inference.py'
 
 
-* Training logs have been saved in './recorder_log'.
+* Training logs have been saved in './recorder_pre'.
