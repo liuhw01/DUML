@@ -1,5 +1,4 @@
 This is the inference network code for 'Learning from More: Combating Uncertainty Cross-multidomain for Facial Expression Recognition'
-
 ===
 
 ## Inference
@@ -8,7 +7,7 @@ This is the inference network code for 'Learning from More: Combating Uncertaint
 
 The prepared file format is as follows:
 
-'''
+```
 ./data
 	./CK
 	./AffectNet
@@ -17,10 +16,10 @@ The prepared file format is as follows:
 	./RAF-DB
 	./Oulu_CASIA
 
-'''
+```
 
 
-* Step 2:  run 'inference.py'
+* Step 2:  run `inference.py`.
 
 
-* Training logs have been saved in './recorder_pre'.
+* Training logs have been saved in `./recorder_pre`.
