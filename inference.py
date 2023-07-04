@@ -64,7 +64,7 @@ if __name__ == '__main__':
     scheduler = torch.optim.lr_scheduler.StepLR(optimizer, step_size=20, gamma=0.1)
     recorder = RecorderMeter(opt.iteration)
 
-    # 数据集变换
+    #
     mytransform_train = transforms.Compose([transforms.Resize([224,224]),
                                       transforms.ColorJitter(brightness=0.2, contrast=0.2, saturation=0.2),
                                       transforms.RandomGrayscale(p=0.2),
@@ -74,12 +74,12 @@ if __name__ == '__main__':
                                       transforms.ToTensor()])  # transform [0,255] to [0,1]
     mytransform_test=transforms.Compose([transforms.Resize([224,224]), transforms.ToTensor()])  # transform [0,255] to [0,1]
 
-    # 处理source label
+    # source label
 
 
-    # 读取source数据集
+    # source
     #source_loader=source_load(opt.source_root, opt.source_label, mytransform_train,kwargs)
-    # 读取target数据集
+    # target
 
     target_test_loader =target_load(opt.target_root, opt.target_label, mytransform_train,mytransform_test,opt)
 
