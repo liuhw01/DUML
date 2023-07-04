@@ -1,0 +1,200 @@
+ * training  Accuracy 24.101* output1: 18.485 * output2: 17.899 * output3: 12.970 * output21: 24.512 * output22: 23.288
+ * vail Accuracy 37.602 * output1: 7.629 * output2: 31.971 * output3: 11.717*Pseudo_label  13.896###Merge 26.794###### Merge 35.604 ###### Merge 25.704 ###
+ * training  Accuracy 43.010* output1: 29.131 * output2: 34.586 * output3: 30.889 * output21: 36.073 * output22: 37.443
+ * vail Accuracy 36.512 * output1: 22.707 * output2: 41.235 * output3: 27.248*Pseudo_label  27.248###Merge 41.417###### Merge 41.326 ###### Merge 32.607 ###
+ * training  Accuracy 52.970* output1: 43.758 * output2: 38.869 * output3: 48.990 * output21: 44.562 * output22: 44.936
+ * vail Accuracy 46.231 * output1: 38.056 * output2: 54.223 * output3: 52.134*Pseudo_label  52.134###Merge 53.951###### Merge 52.134 ###### Merge 50.590 ###
+ * training  Accuracy 58.566* output1: 53.657 * output2: 51.717 * output3: 49.939 * output21: 49.896 * output22: 49.606
+ * vail Accuracy 66.939 * output1: 69.301 * output2: 37.330 * output3: 49.682*Pseudo_label  41.689###Merge 56.312###### Merge 66.303 ###### Merge 53.678 ###
+ * training  Accuracy 70.465* output1: 65.273 * output2: 53.515 * output3: 48.364 * output21: 51.577 * output22: 52.428
+ * vail Accuracy 67.484 * output1: 59.310 * output2: 48.047 * output3: 48.774*Pseudo_label  59.582###Merge 53.860###### Merge 64.668 ###### Merge 63.851 ###
+ * training  Accuracy 72.404* output1: 64.404 * output2: 60.202 * output3: 50.505 * output21: 55.583 * output22: 56.040
+ * vail Accuracy 70.027 * output1: 70.845 * output2: 61.944 * output3: 50.863*Pseudo_label  73.115###Merge 66.485###### Merge 70.936 ###### Merge 72.207 ###
+ * training  Accuracy 77.838* output1: 72.707 * output2: 63.394 * output3: 50.162 * output21: 57.783 * output22: 58.281
+ * vail Accuracy 68.847 * output1: 67.575 * output2: 69.301 * output3: 47.956*Pseudo_label  72.843###Merge 72.389###### Merge 71.935 ###### Merge 71.390 ###
+ * training  Accuracy 77.192* output1: 72.990 * output2: 65.071 * output3: 54.727 * output21: 58.468 * output22: 59.983
+ * vail Accuracy 75.114 * output1: 70.845 * output2: 61.671 * output3: 56.494*Pseudo_label  72.752###Merge 72.480###### Merge 75.204 ###### Merge 78.747 ###
+ * training  Accuracy 81.313* output1: 77.434 * output2: 70.101 * output3: 59.192 * output21: 61.540 * output22: 62.350
+ * vail Accuracy 74.024 * output1: 81.381 * output2: 61.490 * output3: 53.224*Pseudo_label  75.023###Merge 77.021###### Merge 78.747 ###### Merge 77.929 ###
+ * training  Accuracy 82.202* output1: 81.071 * output2: 68.182 * output3: 65.051 * output21: 62.578 * output22: 62.287
+ * vail Accuracy 74.387 * output1: 78.111 * output2: 60.400 * output3: 65.849*Pseudo_label  72.207###Merge 77.748###### Merge 76.930 ###### Merge 76.022 ###
+ * training  Accuracy 81.697* output1: 81.030 * output2: 71.657 * output3: 59.758 * output21: 63.616 * output22: 62.183
+ * vail Accuracy 73.751 * output1: 80.200 * output2: 71.753 * output3: 62.489*Pseudo_label  81.199###Merge 77.384###### Merge 77.657 ###### Merge 78.928 ###
+ * training  Accuracy 84.485* output1: 81.434 * output2: 74.283 * output3: 61.657 * output21: 64.612 * output22: 64.923
+ * vail Accuracy 78.111 * output1: 75.749 * output2: 69.482 * output3: 63.215*Pseudo_label  80.745###Merge 79.746###### Merge 80.836 ###### Merge 80.926 ###
+ * training  Accuracy 82.424* output1: 80.667 * output2: 71.818 * output3: 63.091 * output21: 65.089 * output22: 63.927
+ * vail Accuracy 77.929 * output1: 70.845 * output2: 74.932 * output3: 59.491*Pseudo_label  75.295###Merge 75.568###### Merge 81.562 ###### Merge 79.019 ###
+ * training  Accuracy 83.778* output1: 83.475 * output2: 75.879 * output3: 56.828 * output21: 65.733 * output22: 66.231
+ * vail Accuracy 77.293 * output1: 79.473 * output2: 71.117 * output3: 52.589*Pseudo_label  73.388###Merge 68.302###### Merge 76.113 ###### Merge 76.930 ###
+ * training  Accuracy 83.616* output1: 83.273 * output2: 74.626 * output3: 52.162 * output21: 65.670 * output22: 66.459
+ * vail Accuracy 78.383 * output1: 79.292 * output2: 68.483 * output3: 48.865*Pseudo_label  77.657###Merge 73.751###### Merge 78.656 ###### Merge 79.110 ###
+ * training  Accuracy 85.333* output1: 84.606 * output2: 75.556 * output3: 66.687 * output21: 65.899 * output22: 66.210
+ * vail Accuracy 86.558 * output1: 70.572 * output2: 73.206 * output3: 64.759*Pseudo_label  80.109###Merge 81.562###### Merge 87.738 ###### Merge 85.468 ###
+ * training  Accuracy 85.394* output1: 81.758 * output2: 76.424 * output3: 66.768 * output21: 66.252 * output22: 66.853
+ * vail Accuracy 81.199 * output1: 83.197 * output2: 76.476 * output3: 58.674*Pseudo_label  83.015###Merge 81.926###### Merge 84.378 ###### Merge 81.199 ###
+ * training  Accuracy 85.293* output1: 85.596 * output2: 76.485 * output3: 65.111 * output21: 67.123 * output22: 66.667
+ * vail Accuracy 79.382 * output1: 81.926 * output2: 76.658 * output3: 52.679*Pseudo_label  80.109###Merge 73.660###### Merge 80.291 ###### Merge 79.927 ###
+ * training  Accuracy 86.141* output1: 85.313 * output2: 76.869 * output3: 60.646 * output21: 67.393 * output22: 66.355
+ * vail Accuracy 82.925 * output1: 84.559 * output2: 77.657 * output3: 52.861*Pseudo_label  85.286###Merge 78.928###### Merge 83.742 ###### Merge 85.286 ###
+ * training  Accuracy 86.384* output1: 87.434 * output2: 77.758 * output3: 59.374 * output21: 68.410 * output22: 67.601
+ * vail Accuracy 84.015 * output1: 87.193 * output2: 76.022 * output3: 50.772*Pseudo_label  86.739###Merge 81.199###### Merge 85.286 ###### Merge 85.831 ###
+ * training  Accuracy 88.303* output1: 87.495 * output2: 79.556 * output3: 65.838 * output21: 70.714 * output22: 69.905
+ * vail Accuracy 87.284 * output1: 88.374 * output2: 79.110 * output3: 64.941*Pseudo_label  88.465###Merge 85.014###### Merge 87.103 ###### Merge 88.283 ###
+ * training  Accuracy 89.535* output1: 89.313 * output2: 79.859 * output3: 70.848 * output21: 71.586 * output22: 70.631
+ * vail Accuracy 87.557 * output1: 89.555 * output2: 78.565 * output3: 64.668*Pseudo_label  89.464###Merge 86.830###### Merge 87.920 ###### Merge 88.556 ###
+ * training  Accuracy 89.576* output1: 89.616 * output2: 79.333 * output3: 71.535 * output21: 73.537 * output22: 72.395
+ * vail Accuracy 87.375 * output1: 89.555 * output2: 79.746 * output3: 65.668*Pseudo_label  89.918###Merge 87.284###### Merge 88.011 ###### Merge 89.101 ###
+ * training  Accuracy 90.263* output1: 90.525 * output2: 80.202 * output3: 72.687 * output21: 72.125 * output22: 71.295
+ * vail Accuracy 86.921 * output1: 90.554 * output2: 79.564 * output3: 65.213*Pseudo_label  90.463###Merge 86.921###### Merge 87.375 ###### Merge 88.283 ###
+ * training  Accuracy 90.040* output1: 90.101 * output2: 79.899 * output3: 71.758 * output21: 73.142 * output22: 71.835
+ * vail Accuracy 87.284 * output1: 90.463 * output2: 80.109 * output3: 66.394*Pseudo_label  90.463###Merge 87.738###### Merge 88.647 ###### Merge 89.192 ###
+ * training  Accuracy 90.566* output1: 90.323 * output2: 80.202 * output3: 71.879 * output21: 73.288 * output22: 72.063
+ * vail Accuracy 87.284 * output1: 89.918 * output2: 79.564 * output3: 65.304*Pseudo_label  89.555###Merge 87.738###### Merge 89.010 ###### Merge 88.828 ###
+ * training  Accuracy 90.525* output1: 90.727 * output2: 80.242 * output3: 72.667 * output21: 71.586 * output22: 70.880
+ * vail Accuracy 88.556 * output1: 90.736 * output2: 80.200 * output3: 66.485*Pseudo_label  90.827###Merge 88.011###### Merge 89.282 ###### Merge 90.100 ###
+ * training  Accuracy 91.071* output1: 91.010 * output2: 80.566 * output3: 72.970 * output21: 73.329 * output22: 72.644
+ * vail Accuracy 88.374 * output1: 90.917 * output2: 80.200 * output3: 67.575*Pseudo_label  90.917###Merge 88.283###### Merge 89.101 ###### Merge 89.918 ###
+ * training  Accuracy 90.889* output1: 90.950 * output2: 80.808 * output3: 73.293 * output21: 74.035 * output22: 73.454
+ * vail Accuracy 88.647 * output1: 90.736 * output2: 80.745 * output3: 67.302*Pseudo_label  90.554###Merge 87.920###### Merge 89.192 ###### Merge 89.646 ###
+ * training  Accuracy 90.626* output1: 90.667 * output2: 80.869 * output3: 73.596 * output21: 73.599 * output22: 72.188
+ * vail Accuracy 88.556 * output1: 90.917 * output2: 81.562 * output3: 67.757*Pseudo_label  90.736###Merge 88.374###### Merge 89.282 ###### Merge 89.827 ###
+ * training  Accuracy 91.152* output1: 91.172 * output2: 80.909 * output3: 72.970 * output21: 73.661 * output22: 72.499
+ * vail Accuracy 87.193 * output1: 89.373 * output2: 79.564 * output3: 65.849*Pseudo_label  89.010###Merge 88.374###### Merge 88.556 ###### Merge 89.101 ###
+ * training  Accuracy 91.131* output1: 90.768 * output2: 80.323 * output3: 73.354 * output21: 75.073 * output22: 73.807
+ * vail Accuracy 87.738 * output1: 90.463 * output2: 80.200 * output3: 66.576*Pseudo_label  90.100###Merge 87.557###### Merge 88.647 ###### Merge 89.192 ###
+ * training  Accuracy 91.172* output1: 91.172 * output2: 80.465 * output3: 74.061 * output21: 75.592 * output22: 74.388
+ * vail Accuracy 88.465 * output1: 90.736 * output2: 80.291 * output3: 63.669*Pseudo_label  90.463###Merge 87.738###### Merge 89.737 ###### Merge 90.191 ###
+ * training  Accuracy 90.687* output1: 91.394 * output2: 80.626 * output3: 73.980 * output21: 74.325 * output22: 73.059
+ * vail Accuracy 89.010 * output1: 91.190 * output2: 79.746 * output3: 67.666*Pseudo_label  90.554###Merge 88.647###### Merge 89.464 ###### Merge 89.737 ###
+ * training  Accuracy 91.111* output1: 91.172 * output2: 81.152 * output3: 72.707 * output21: 74.595 * output22: 73.516
+ * vail Accuracy 89.373 * output1: 91.190 * output2: 81.108 * output3: 64.214*Pseudo_label  90.827###Merge 86.467###### Merge 89.373 ###### Merge 90.554 ###
+ * training  Accuracy 91.253* output1: 91.111 * output2: 81.071 * output3: 72.162 * output21: 75.073 * output22: 74.014
+ * vail Accuracy 88.283 * output1: 90.827 * output2: 81.381 * output3: 63.760*Pseudo_label  90.282###Merge 87.648###### Merge 89.373 ###### Merge 89.918 ###
+ * training  Accuracy 91.091* output1: 91.091 * output2: 81.152 * output3: 73.091 * output21: 74.222 * output22: 74.097
+ * vail Accuracy 87.829 * output1: 90.191 * output2: 81.562 * output3: 63.942*Pseudo_label  90.282###Merge 87.738###### Merge 89.010 ###### Merge 88.738 ###
+ * training  Accuracy 90.525* output1: 90.606 * output2: 81.677 * output3: 73.152 * output21: 75.135 * output22: 73.931
+ * vail Accuracy 88.828 * output1: 91.462 * output2: 81.381 * output3: 63.397*Pseudo_label  91.371###Merge 86.104###### Merge 89.464 ###### Merge 90.645 ###
+ * training  Accuracy 91.273* output1: 91.616 * output2: 82.202 * output3: 70.707 * output21: 75.218 * output22: 73.391
+ * vail Accuracy 88.374 * output1: 90.827 * output2: 82.016 * output3: 62.489*Pseudo_label  90.827###Merge 86.739###### Merge 88.919 ###### Merge 89.464 ###
+ * training  Accuracy 91.192* output1: 91.657 * output2: 82.081 * output3: 72.545 * output21: 75.488 * output22: 74.658
+ * vail Accuracy 87.920 * output1: 91.190 * output2: 80.654 * output3: 63.034*Pseudo_label  90.827###Merge 87.012###### Merge 88.283 ###### Merge 89.373 ###
+ * training  Accuracy 90.384* output1: 90.364 * output2: 81.919 * output3: 72.040 * output21: 75.654 * output22: 73.973
+ * vail Accuracy 88.102 * output1: 90.827 * output2: 80.654 * output3: 63.579*Pseudo_label  90.736###Merge 87.648###### Merge 88.647 ###### Merge 89.555 ###
+ * training  Accuracy 90.990* output1: 91.051 * output2: 82.182 * output3: 71.818 * output21: 74.346 * output22: 72.229
+ * vail Accuracy 88.283 * output1: 91.099 * output2: 81.471 * output3: 63.034*Pseudo_label  90.827###Merge 87.193###### Merge 88.556 ###### Merge 89.555 ###
+ * training  Accuracy 90.929* output1: 90.970 * output2: 82.061 * output3: 72.263 * output21: 75.197 * output22: 74.637
+ * vail Accuracy 88.465 * output1: 91.462 * output2: 82.016 * output3: 64.033*Pseudo_label  91.099###Merge 87.738###### Merge 89.192 ###### Merge 89.646 ###
+ * training  Accuracy 90.848* output1: 90.990 * output2: 82.465 * output3: 72.000 * output21: 74.741 * output22: 73.599
+ * vail Accuracy 88.556 * output1: 91.553 * output2: 82.016 * output3: 64.033*Pseudo_label  90.827###Merge 87.193###### Merge 89.010 ###### Merge 89.827 ###
+ * training  Accuracy 90.747* output1: 91.091 * output2: 82.121 * output3: 72.000 * output21: 74.907 * output22: 73.890
+ * vail Accuracy 88.738 * output1: 91.371 * output2: 81.653 * output3: 64.578*Pseudo_label  90.827###Merge 87.648###### Merge 89.192 ###### Merge 89.555 ###
+ * training  Accuracy 91.071* output1: 91.515 * output2: 82.121 * output3: 72.646 * output21: 75.218 * output22: 73.454
+ * vail Accuracy 88.556 * output1: 91.371 * output2: 82.289 * output3: 62.852*Pseudo_label  90.827###Merge 87.648###### Merge 88.828 ###### Merge 89.373 ###
+ * training  Accuracy 91.051* output1: 91.010 * output2: 81.919 * output3: 72.687 * output21: 75.073 * output22: 74.346
+ * vail Accuracy 88.738 * output1: 91.099 * output2: 82.289 * output3: 62.489*Pseudo_label  90.917###Merge 87.375###### Merge 88.828 ###### Merge 89.282 ###
+ * training  Accuracy 91.111* output1: 91.616 * output2: 82.222 * output3: 72.283 * output21: 76.816 * output22: 74.782
+ * vail Accuracy 88.556 * output1: 91.644 * output2: 82.289 * output3: 62.216*Pseudo_label  91.099###Merge 87.466###### Merge 89.192 ###### Merge 89.282 ###
+ * training  Accuracy 91.253* output1: 91.556 * output2: 82.263 * output3: 72.283 * output21: 76.609 * output22: 75.218
+ * vail Accuracy 88.828 * output1: 91.735 * output2: 82.470 * output3: 63.669*Pseudo_label  91.190###Merge 87.738###### Merge 89.101 ###### Merge 89.646 ###
+ * training  Accuracy 91.232* output1: 91.576 * output2: 82.061 * output3: 72.283 * output21: 76.422 * output22: 74.491
+ * vail Accuracy 88.738 * output1: 91.462 * output2: 82.470 * output3: 63.397*Pseudo_label  90.917###Merge 87.557###### Merge 89.010 ###### Merge 89.555 ###
+ * training  Accuracy 90.970* output1: 91.172 * output2: 82.020 * output3: 71.939 * output21: 75.239 * output22: 73.890
+ * vail Accuracy 88.647 * output1: 92.007 * output2: 82.470 * output3: 64.124*Pseudo_label  91.462###Merge 87.829###### Merge 89.464 ###### Merge 89.555 ###
+ * training  Accuracy 91.172* output1: 91.636 * output2: 82.364 * output3: 72.949 * output21: 76.297 * output22: 74.678
+ * vail Accuracy 88.647 * output1: 91.553 * output2: 82.289 * output3: 62.943*Pseudo_label  91.099###Merge 87.375###### Merge 89.192 ###### Merge 89.373 ###
+ * training  Accuracy 91.030* output1: 91.556 * output2: 82.182 * output3: 72.283 * output21: 75.924 * output22: 74.782
+ * vail Accuracy 88.647 * output1: 91.553 * output2: 82.652 * output3: 64.305*Pseudo_label  91.281###Merge 87.557###### Merge 88.919 ###### Merge 89.464 ###
+ * training  Accuracy 90.990* output1: 91.091 * output2: 82.303 * output3: 72.202 * output21: 76.152 * output22: 74.533
+ * vail Accuracy 88.647 * output1: 91.644 * output2: 82.289 * output3: 63.942*Pseudo_label  91.190###Merge 87.920###### Merge 88.919 ###### Merge 89.555 ###
+ * training  Accuracy 91.152* output1: 91.798 * output2: 82.566 * output3: 72.848 * output21: 77.044 * output22: 75.301
+ * vail Accuracy 88.828 * output1: 91.644 * output2: 82.380 * output3: 63.760*Pseudo_label  91.190###Merge 87.648###### Merge 88.828 ###### Merge 89.464 ###
+ * training  Accuracy 91.131* output1: 91.697 * output2: 82.465 * output3: 72.929 * output21: 75.675 * output22: 74.554
+ * vail Accuracy 88.556 * output1: 91.826 * output2: 82.834 * output3: 65.213*Pseudo_label  91.462###Merge 88.102###### Merge 89.464 ###### Merge 89.192 ###
+ * training  Accuracy 91.293* output1: 91.576 * output2: 82.586 * output3: 72.465 * output21: 75.301 * output22: 74.201
+ * vail Accuracy 88.374 * output1: 91.826 * output2: 82.380 * output3: 62.579*Pseudo_label  91.462###Merge 87.648###### Merge 89.192 ###### Merge 89.282 ###
+ * training  Accuracy 90.929* output1: 91.535 * output2: 81.596 * output3: 72.364 * output21: 75.654 * output22: 74.242
+ * vail Accuracy 88.647 * output1: 91.916 * output2: 82.561 * output3: 63.579*Pseudo_label  91.553###Merge 87.920###### Merge 89.373 ###### Merge 89.646 ###
+ * training  Accuracy 91.293* output1: 91.697 * output2: 82.485 * output3: 72.081 * output21: 76.069 * output22: 74.533
+ * vail Accuracy 88.647 * output1: 92.189 * output2: 82.652 * output3: 63.942*Pseudo_label  91.735###Merge 88.193###### Merge 89.464 ###### Merge 89.555 ###
+ * training  Accuracy 90.929* output1: 91.253 * output2: 81.980 * output3: 72.586 * output21: 76.609 * output22: 74.824
+ * vail Accuracy 88.647 * output1: 91.735 * output2: 82.198 * output3: 64.850*Pseudo_label  91.281###Merge 87.738###### Merge 88.919 ###### Merge 89.555 ###
+ * training  Accuracy 91.192* output1: 91.475 * output2: 81.899 * output3: 73.677 * output21: 75.405 * output22: 73.599
+ * vail Accuracy 88.556 * output1: 91.371 * output2: 82.470 * output3: 64.396*Pseudo_label  91.008###Merge 87.829###### Merge 89.101 ###### Merge 89.373 ###
+ * training  Accuracy 91.111* output1: 91.677 * output2: 82.505 * output3: 72.828 * output21: 76.318 * output22: 75.405
+ * vail Accuracy 88.647 * output1: 91.916 * output2: 82.470 * output3: 64.033*Pseudo_label  91.462###Merge 87.920###### Merge 89.192 ###### Merge 89.464 ###
+ * training  Accuracy 91.030* output1: 91.616 * output2: 82.121 * output3: 73.374 * output21: 75.197 * output22: 73.661
+ * vail Accuracy 88.556 * output1: 91.553 * output2: 82.561 * output3: 64.487*Pseudo_label  91.281###Merge 87.829###### Merge 89.192 ###### Merge 89.464 ###
+ * training  Accuracy 91.172* output1: 91.394 * output2: 82.263 * output3: 72.869 * output21: 75.841 * output22: 74.533
+ * vail Accuracy 88.556 * output1: 91.735 * output2: 82.380 * output3: 62.943*Pseudo_label  91.190###Merge 87.466###### Merge 89.010 ###### Merge 89.282 ###
+ * training  Accuracy 90.848* output1: 91.535 * output2: 82.141 * output3: 73.414 * output21: 75.861 * output22: 75.841
+ * vail Accuracy 88.465 * output1: 91.644 * output2: 82.380 * output3: 63.669*Pseudo_label  91.099###Merge 87.829###### Merge 88.919 ###### Merge 89.373 ###
+ * training  Accuracy 91.091* output1: 91.677 * output2: 82.303 * output3: 73.152 * output21: 76.609 * output22: 75.239
+ * vail Accuracy 88.647 * output1: 91.826 * output2: 82.470 * output3: 63.488*Pseudo_label  91.371###Merge 88.102###### Merge 89.101 ###### Merge 89.555 ###
+ * training  Accuracy 91.374* output1: 91.737 * output2: 82.303 * output3: 72.384 * output21: 76.692 * output22: 75.633
+ * vail Accuracy 88.556 * output1: 91.553 * output2: 82.380 * output3: 63.215*Pseudo_label  91.190###Merge 87.648###### Merge 89.010 ###### Merge 89.373 ###
+ * training  Accuracy 91.131* output1: 91.616 * output2: 82.061 * output3: 72.929 * output21: 75.093 * output22: 73.557
+ * vail Accuracy 88.738 * output1: 92.007 * output2: 82.652 * output3: 64.759*Pseudo_label  91.644###Merge 87.829###### Merge 89.282 ###### Merge 89.464 ###
+ * training  Accuracy 91.051* output1: 91.859 * output2: 82.222 * output3: 72.869 * output21: 76.256 * output22: 75.135
+ * vail Accuracy 88.738 * output1: 91.916 * output2: 82.652 * output3: 65.486*Pseudo_label  91.644###Merge 88.283###### Merge 89.373 ###### Merge 89.646 ###
+ * training  Accuracy 91.455* output1: 91.737 * output2: 82.162 * output3: 73.071 * output21: 76.110 * output22: 74.824
+ * vail Accuracy 88.647 * output1: 92.098 * output2: 82.743 * output3: 65.032*Pseudo_label  91.644###Merge 88.102###### Merge 89.373 ###### Merge 89.646 ###
+ * training  Accuracy 91.333* output1: 91.677 * output2: 82.525 * output3: 72.303 * output21: 76.692 * output22: 75.093
+ * vail Accuracy 88.647 * output1: 91.553 * output2: 82.561 * output3: 63.579*Pseudo_label  91.099###Merge 87.920###### Merge 88.919 ###### Merge 89.555 ###
+ * training  Accuracy 90.970* output1: 91.434 * output2: 82.162 * output3: 72.929 * output21: 75.529 * output22: 73.931
+ * vail Accuracy 88.556 * output1: 91.644 * output2: 82.470 * output3: 63.488*Pseudo_label  91.099###Merge 87.466###### Merge 89.010 ###### Merge 89.373 ###
+ * training  Accuracy 90.950* output1: 91.535 * output2: 82.040 * output3: 72.970 * output21: 77.190 * output22: 75.446
+ * vail Accuracy 88.647 * output1: 91.462 * output2: 82.470 * output3: 63.851*Pseudo_label  90.917###Merge 87.829###### Merge 88.919 ###### Merge 89.373 ###
+ * training  Accuracy 91.273* output1: 92.040 * output2: 82.081 * output3: 73.111 * output21: 75.778 * output22: 75.031
+ * vail Accuracy 88.647 * output1: 91.644 * output2: 82.470 * output3: 63.579*Pseudo_label  91.281###Merge 88.102###### Merge 88.919 ###### Merge 89.282 ###
+ * training  Accuracy 91.455* output1: 91.818 * output2: 82.364 * output3: 72.848 * output21: 75.592 * output22: 74.346
+ * vail Accuracy 88.647 * output1: 91.916 * output2: 82.561 * output3: 62.398*Pseudo_label  91.099###Merge 87.829###### Merge 88.919 ###### Merge 89.464 ###
+ * training  Accuracy 91.192* output1: 91.798 * output2: 82.323 * output3: 73.232 * output21: 75.052 * output22: 74.429
+ * vail Accuracy 88.647 * output1: 91.826 * output2: 82.561 * output3: 63.579*Pseudo_label  91.281###Merge 87.738###### Merge 89.010 ###### Merge 89.373 ###
+ * training  Accuracy 91.253* output1: 91.717 * output2: 82.364 * output3: 72.525 * output21: 76.359 * output22: 74.761
+ * vail Accuracy 88.556 * output1: 91.826 * output2: 82.470 * output3: 63.397*Pseudo_label  91.281###Merge 87.829###### Merge 89.010 ###### Merge 89.282 ###
+ * training  Accuracy 91.131* output1: 91.495 * output2: 82.303 * output3: 72.909 * output21: 75.758 * output22: 74.886
+ * vail Accuracy 88.647 * output1: 91.826 * output2: 82.470 * output3: 64.305*Pseudo_label  91.190###Merge 88.011###### Merge 88.919 ###### Merge 89.373 ###
+ * training  Accuracy 91.071* output1: 91.535 * output2: 82.182 * output3: 73.051 * output21: 77.584 * output22: 75.695
+ * vail Accuracy 88.738 * output1: 91.826 * output2: 82.652 * output3: 64.396*Pseudo_label  91.462###Merge 87.920###### Merge 89.373 ###### Merge 89.555 ###
+ * training  Accuracy 91.354* output1: 91.717 * output2: 82.202 * output3: 72.707 * output21: 75.135 * output22: 74.471
+ * vail Accuracy 88.647 * output1: 91.735 * output2: 82.470 * output3: 64.033*Pseudo_label  91.281###Merge 87.648###### Merge 89.010 ###### Merge 89.282 ###
+ * training  Accuracy 91.394* output1: 91.798 * output2: 82.182 * output3: 72.909 * output21: 76.692 * output22: 75.882
+ * vail Accuracy 88.556 * output1: 91.916 * output2: 82.470 * output3: 63.034*Pseudo_label  91.371###Merge 88.193###### Merge 89.101 ###### Merge 89.464 ###
+ * training  Accuracy 91.293* output1: 91.838 * output2: 82.505 * output3: 72.687 * output21: 75.197 * output22: 73.495
+ * vail Accuracy 88.556 * output1: 91.916 * output2: 82.743 * output3: 63.397*Pseudo_label  91.281###Merge 88.011###### Merge 89.010 ###### Merge 89.464 ###
+ * training  Accuracy 91.030* output1: 91.434 * output2: 81.758 * output3: 72.747 * output21: 77.252 * output22: 75.841
+ * vail Accuracy 88.556 * output1: 91.644 * output2: 82.561 * output3: 63.851*Pseudo_label  91.190###Merge 87.920###### Merge 88.919 ###### Merge 89.464 ###
+ * training  Accuracy 91.172* output1: 91.515 * output2: 82.182 * output3: 72.768 * output21: 74.616 * output22: 74.035
+ * vail Accuracy 88.647 * output1: 91.826 * output2: 82.652 * output3: 63.215*Pseudo_label  91.190###Merge 87.829###### Merge 88.919 ###### Merge 89.282 ###
+ * training  Accuracy 91.495* output1: 91.879 * output2: 82.404 * output3: 72.889 * output21: 75.841 * output22: 74.242
+ * vail Accuracy 88.556 * output1: 91.644 * output2: 82.470 * output3: 63.397*Pseudo_label  91.008###Merge 87.829###### Merge 89.010 ###### Merge 89.464 ###
+ * training  Accuracy 90.869* output1: 91.293 * output2: 82.465 * output3: 72.707 * output21: 76.339 * output22: 74.616
+ * vail Accuracy 88.465 * output1: 91.826 * output2: 82.561 * output3: 63.669*Pseudo_label  91.371###Merge 87.648###### Merge 89.192 ###### Merge 89.282 ###
+ * training  Accuracy 91.192* output1: 91.515 * output2: 82.162 * output3: 73.394 * output21: 76.048 * output22: 75.031
+ * vail Accuracy 88.647 * output1: 91.916 * output2: 82.652 * output3: 63.942*Pseudo_label  91.553###Merge 88.102###### Merge 89.192 ###### Merge 89.555 ###
+ * training  Accuracy 91.172* output1: 92.020 * output2: 82.586 * output3: 72.869 * output21: 76.027 * output22: 74.741
+ * vail Accuracy 88.647 * output1: 91.826 * output2: 82.561 * output3: 64.214*Pseudo_label  91.190###Merge 87.648###### Merge 89.010 ###### Merge 89.192 ###
+ * training  Accuracy 91.556* output1: 92.040 * output2: 82.242 * output3: 73.152 * output21: 75.841 * output22: 74.761
+ * vail Accuracy 88.556 * output1: 91.644 * output2: 82.470 * output3: 63.942*Pseudo_label  91.008###Merge 88.011###### Merge 89.282 ###### Merge 89.282 ###
+ * training  Accuracy 91.010* output1: 91.636 * output2: 82.202 * output3: 72.707 * output21: 76.276 * output22: 75.529
+ * vail Accuracy 88.647 * output1: 91.916 * output2: 82.561 * output3: 64.214*Pseudo_label  91.281###Merge 88.283###### Merge 89.192 ###### Merge 89.373 ###
+ * training  Accuracy 91.192* output1: 91.717 * output2: 82.384 * output3: 72.929 * output21: 76.339 * output22: 75.239
+ * vail Accuracy 88.647 * output1: 91.735 * output2: 82.652 * output3: 63.942*Pseudo_label  91.281###Merge 87.920###### Merge 89.373 ###### Merge 89.282 ###
+ * training  Accuracy 91.434* output1: 91.798 * output2: 82.869 * output3: 73.091 * output21: 76.339 * output22: 74.491
+ * vail Accuracy 88.647 * output1: 91.916 * output2: 82.470 * output3: 62.943*Pseudo_label  91.644###Merge 87.557###### Merge 89.101 ###### Merge 89.373 ###
+ * training  Accuracy 91.030* output1: 91.818 * output2: 82.303 * output3: 72.970 * output21: 75.903 * output22: 74.201
+ * vail Accuracy 88.465 * output1: 91.735 * output2: 82.652 * output3: 62.852*Pseudo_label  91.281###Merge 87.466###### Merge 89.101 ###### Merge 89.555 ###
+ * training  Accuracy 91.071* output1: 91.354 * output2: 82.505 * output3: 72.707 * output21: 76.235 * output22: 75.052
+ * vail Accuracy 88.647 * output1: 91.735 * output2: 82.743 * output3: 64.668*Pseudo_label  91.371###Merge 88.102###### Merge 89.101 ###### Merge 89.464 ###
+ * training  Accuracy 90.950* output1: 91.657 * output2: 82.101 * output3: 72.687 * output21: 76.463 * output22: 74.720
+ * vail Accuracy 88.647 * output1: 91.916 * output2: 82.652 * output3: 63.851*Pseudo_label  91.462###Merge 87.829###### Merge 89.101 ###### Merge 89.464 ###
+ * training  Accuracy 91.253* output1: 92.020 * output2: 82.364 * output3: 73.010 * output21: 77.024 * output22: 75.841
+ * vail Accuracy 88.647 * output1: 91.916 * output2: 82.652 * output3: 64.487*Pseudo_label  91.644###Merge 87.920###### Merge 89.192 ###### Merge 89.555 ###
+ * training  Accuracy 91.313* output1: 91.677 * output2: 82.303 * output3: 72.848 * output21: 76.048 * output22: 74.263
+ * vail Accuracy 88.374 * output1: 91.553 * output2: 82.289 * output3: 62.852*Pseudo_label  91.190###Merge 87.648###### Merge 89.010 ###### Merge 89.282 ###
+ * training  Accuracy 90.929* output1: 91.333 * output2: 82.303 * output3: 72.727 * output21: 75.425 * output22: 73.786
+ * vail Accuracy 88.556 * output1: 91.553 * output2: 82.743 * output3: 63.851*Pseudo_label  91.099###Merge 88.011###### Merge 88.828 ###### Merge 89.373 ###
+ * training  Accuracy 91.051* output1: 91.394 * output2: 82.545 * output3: 72.788 * output21: 76.048 * output22: 74.720
+ * vail Accuracy 88.556 * output1: 91.735 * output2: 82.470 * output3: 63.306*Pseudo_label  91.371###Merge 87.829###### Merge 89.101 ###### Merge 89.464 ###
+ * training  Accuracy 90.990* output1: 91.414 * output2: 82.323 * output3: 72.646 * output21: 75.965 * output22: 74.637
+ * vail Accuracy 88.647 * output1: 91.916 * output2: 82.925 * output3: 64.214*Pseudo_label  91.190###Merge 87.920###### Merge 89.282 ###### Merge 89.464 ###
