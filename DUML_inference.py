@@ -92,7 +92,7 @@ class ADDNET(nn.Module):
         self.maxpool = nn.MaxPool2d(kernel_size=3, stride=2, padding=1)
         # Shared feature extraction module.
         self.layer3 = self._make_layer(AttentionBlock,128, 256, 6,stride=2)  # 14x14x256
-        self.layer4 = self._make_layer(AttentionBlock,256, 512, 3, stride=2)  # 第一个stride=2,剩下3个stride=1;7x7x512
+        self.layer4 = self._make_layer(AttentionBlock,256, 512, 3, stride=2)  # 7x7x512
         self.avgpool = nn.AdaptiveAvgPool2d((1, 1))
     def _make_layer(self, block, inplanes, planes, blocks, stride=1):
         norm_layer = self._norm_layer
