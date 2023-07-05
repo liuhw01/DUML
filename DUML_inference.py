@@ -122,10 +122,10 @@ class GlobalNet(nn.Module):
         self._norm_layer = norm_layer
         self.maxpool = nn.MaxPool2d(kernel_size=3, stride=2, padding=1)
         # Shared feature extraction module.
-        self.layer5_1 = self._make_layer(BasicBlock, 128, 256, 2, stride=2)  # 第一个stride=2,剩下3个stride=1;7x7x128
-        self.layer5_2 = self._make_layer(BasicBlock, 128, 256, 2, stride=2)  # 第一个stride=2,剩下3个stride=1;7x7x128
-        self.layer5_3 = self._make_layer(BasicBlock, 128, 256, 2, stride=2)  # 第一个stride=2,剩下3个stride=1;7x7x128
-        self.layer5_4 = self._make_layer(BasicBlock, 128, 256, 2, stride=2)  # 第一个stride=2,剩下3个stride=1;7x7x128
+        self.layer5_1 = self._make_layer(BasicBlock, 128, 256, 2, stride=2)  # 7x7x128
+        self.layer5_2 = self._make_layer(BasicBlock, 128, 256, 2, stride=2)  # 7x7x128
+        self.layer5_3 = self._make_layer(BasicBlock, 128, 256, 2, stride=2)  # 7x7x128
+        self.layer5_4 = self._make_layer(BasicBlock, 128, 256, 2, stride=2)  # 7x7x128
         self.avgpool = nn.AdaptiveAvgPool2d((1, 1))
     def _make_layer(self, block, inplanes, planes, blocks, stride=1):
         norm_layer = self._norm_layer
@@ -318,7 +318,7 @@ class MSFER(nn.Module):
         return entropy_resut
     def forward(self,data_src, data_tgt=0,  label_src=0, mark=0,epoch=1,alpha=1,confident=0.4,Temp=4,nask=0.3010, Coefficient=500):
         ######  Common features. ##########
-        # Common features. data_src和data_tgt
+        # Common features. data_src data_tgt
         # source
         data_src = self.conv1(data_src)
         data_src = self.bn1(data_src)
