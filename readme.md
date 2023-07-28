@@ -36,5 +36,12 @@ The prepared file format is as follows:
 @ARTICLE{9750079,
   author={Liu, Hanwei and Cai, Huiling and Lin, Qingcheng and Li, Xuefeng and Xiao, Hui},
   journal={Proceedings of the 31th ACM International Conference on Multimedia}, 
-  title={Learning from More: Combating Uncertainty Cross-multidomain for Facial Expression Recognition}}
+  title={Learning from More: Combating Uncertainty Cross-multidomain for Facial Expression Recognition}
+  volume={},
+  number={},
+  pages={},
+  year={},
+  publisher={}
+  doi={}}
+```
 ```
