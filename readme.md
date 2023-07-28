@@ -6,6 +6,12 @@ This is the source code for paper
 *Hanwei Liu, Huiling Cai, Qingcheng Lin, Xuefeng Li, Hui Xiao. Learning from More: Combating Uncertainty Cross-multidomain for Facial Expression Recognition, MM '23: Proceedings of the 31th ACM International Conference on Multimedia.*
 
 
+---
+
+![The structure of the proposed method](https://github.com/liuhw01/AMP-Net/blob/main/checkpoint/proposed%20method.png)
+Domain adaptation has driven the progress of Facial Expression Recognition (FER). Existing cross-domain FER methods focus only on the domain alignment of a single source domain to the target domain, ignoring the importance of multisource domains that contain richer knowledge. However, Cross-Multidomain FER (CMFER) needs to combat the domain conflicts caused by the uncertainty of intradomain annotations and the inconsistency of interdomain distributions. To this end, this paper proposes a Domain-Uncertain Mutual Learning (DUML) method to deal with the more challenging
+CMFER problem. Specifically, we consider a domain-specific global perspective for domain-invariance representation and domain fusion for facial generic detail representation to mitigate cross- domain distribution differences. Further, we develop Intra-Domain Uncertainty (Intra-DU) and Inter-Domain Uncertainty (Inter-DU) to combat the large dataset shifts caused by annotation uncertainty. Finally, extensive experimental results on multiple benchmark across multidomain FER datasets demonstrate the remarkable effectiveness of DUML against CMFER uncertainty.
+
 ## Inference
 
 * Step 1: In order to infer your results, you should store the dataset according to the path described in the txt file in `./data/label_multi`
