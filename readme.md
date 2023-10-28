@@ -39,15 +39,19 @@ The prepared file format is as follows:
 ## If you use this work, please cite our paper
 
 ```
-@ARTICLE{9750079,
-  author={Liu, Hanwei and Cai, Huiling and Lin, Qingcheng and Li, Xuefeng and Xiao, Hui},
-  journal={Proceedings of the 31th ACM International Conference on Multimedia}, 
-  title={Learning from More: Combating Uncertainty Cross-multidomain for Facial Expression Recognition}
-  volume={},
-  number={},
-  pages={},
-  year={},
-  publisher={}
-  doi={https://doi.org/10.1145/3581783.3611702}}
-```
-
+@inproceedings{10.1145/3581783.3611702,
+author = {Liu, Hanwei and Cai, Huiling and Lin, Qingcheng and Li, Xuefeng and Xiao, Hui},
+title = {Learning from More: Combating Uncertainty Cross-Multidomain for Facial Expression Recognition},
+year = {2023},
+isbn = {9798400701085},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3581783.3611702},
+doi = {10.1145/3581783.3611702},
+booktitle = {Proceedings of the 31st ACM International Conference on Multimedia},
+pages = {5889–5898},
+numpages = {10},
+keywords = {adversarial learning, cross multiple domains, facial expression recognition, negative transfer},
+location = {Ottawa ON, Canada},
+series = {MM '23}
+}
