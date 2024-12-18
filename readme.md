@@ -3,7 +3,7 @@ DUML
 
 This is the source code for paper
 
-*Hanwei Liu, Huiling Cai, Qingcheng Lin, Xuefeng Li, Hui Xiao. [Learning from More: Combating Uncertainty Cross-multidomain for Facial Expression Recognition]{https://dl.acm.org/doi/10.1145/3581783.3611702}, MM '23: Proceedings of the 31th ACM International Conference on Multimedia.*
+*Hanwei Liu, Huiling Cai, Qingcheng Lin, Xuefeng Li, Hui Xiao. [Learning from More: Combating Uncertainty Cross-multidomain for Facial Expression Recognition](https://dl.acm.org/doi/10.1145/3581783.3611702), MM '23: Proceedings of the 31th ACM International Conference on Multimedia.*
 
 
 ---
